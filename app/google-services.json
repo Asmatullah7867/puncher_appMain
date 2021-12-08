@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931382961647",
+    "project_id": "login-puncture-app",
+    "storage_bucket": "login-puncture-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931382961647:android:3e9e6717e314e3530a421a",
+        "android_client_info": {
+          "package_name": "com.example.loginpunctureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931382961647-2npf4p6n0d5205e8ua4fua0epg9mpneo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSK7r2hbgqiL6zz7tvHZH6GYPdNpobDlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931382961647-2npf4p6n0d5205e8ua4fua0epg9mpneo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
